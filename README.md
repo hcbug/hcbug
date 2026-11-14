@@ -18,7 +18,7 @@
 
 ### GitHub Activity Graph:
 
-![hcbug's github activity graph](https://raw.githubusercontent.com/hcbug/hcbug/output/github-contribution-grid-snake-dark.svg)
+![hcbug's github activity graph](https://raw.githubusercontent.com/hcbug/hcbug/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcbug"></img>
 
