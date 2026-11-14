@@ -7,7 +7,7 @@
 
 ![header](./src/header_.png)
 
-<a href="https://www.deepseek.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" align="right" height="64" width="48" ></a>
+<a href="https://www.deepseek.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" align="right" height="48" width="48" ></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%444444&center=true&vCenter=true&width=600&lines=你好+👋,+我是+Hong+Chang;始终学习新事物;想,全是问题;做,才有答案)](https://git.io/typing-svg)
 
