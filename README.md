@@ -1,4 +1,4 @@
-![Bottom](assets/Bottom_up.svg)
+![Bottom_up](assets/Bottom_up.svg)
 
 <p align="center">
     <a href="https://github.com/hcbug/hcbug"><img src="https://img.shields.io/badge/state-active-brightgreen.svg"></a>
@@ -35,4 +35,4 @@
 
 如果你有意为我的任何仓库做出贡献，欢迎提交 PR、提出 Issue 或直接给我发邮件。
 
-![](assets/Bottom_down.svg)
+![Bottom_down](assets/Bottom_down.svg)
